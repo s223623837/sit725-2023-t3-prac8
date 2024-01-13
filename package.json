@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2023-t3-prac8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s223623837/sit725-2023-t3-prac8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s223623837/sit725-2023-t3-prac8/issues"
+  },
+  "homepage": "https://github.com/s223623837/sit725-2023-t3-prac8#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
